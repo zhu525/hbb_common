@@ -100,8 +100,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.liu66.dpdns.org"];
-pub const RS_PUB_KEY: &str = "12345687";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.com"];
+pub const RS_PUB_KEY: &str = "12345678";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
